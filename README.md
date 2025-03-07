@@ -77,6 +77,10 @@ Looking for more *Roblox* scripts? Check out these sources:
 
 ---
 
+## [**🚀 Download Now & Dominate Arsenal Today!🚀**](https://cheatheaven.org/go/arsenal-script/)
+
+---
+
 ## 👥 Contributing  
 
 If you have suggestions or improvements for this **arsenal script roblox github** repository, feel free to **fork** and submit a **pull request**.  
@@ -96,6 +100,6 @@ This **roblox aimbot script arsenal** is provided for **educational** and **test
 If this **arsenal script aimbot** helped you, please ⭐ **star this repository** to support further development! 🚀  
 
 ---
-## [**🚀 Download Now & Dominate Arsenal Today!🚀**](https://cheatheaven.org/go/arsenal-script/)
+
 
 > **Warning**: This script is for educational and experimental purposes only. Using it in *Arsenal* may result in a ban.
